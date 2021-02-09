@@ -7,13 +7,13 @@ to start laying fibers, which would reach all others nodes. Due to this, we acco
   
 To run app use a command: ```python main.py``` in terminal.
 
-![](./Resources/Path.png)  |  ![](./Resources/MST.png)
+![](./Resources/Graph.png)  |  ![](./Resources/MST.png)
 :-------------------------:|:-------------------------:
-*Shortest path* | *MST tree*
+*Topology* | *MST tree*
 
-![](./Resources/Graph.png)  |  ![](./Resources/Vertex.png)
+![](./Resources/Path.png)  |  ![](./Resources/Vertex.png)
 :-------------------------:|:-------------------------:
-*Topology* | *Best place for the source node*
+*Shortest path 1 - 10* | *Best place for the source node*
 
 **References:**
 
