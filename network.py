@@ -20,7 +20,7 @@ class Network:
     def __init__(self):
         self.vertices = {}
         self.edges = {}
-        with open('plik.txt', 'r') as f:
+        with open('./Resources/plik.txt', 'r') as f:
             number_of_vertices = int(next(f))
             for i in range(0, number_of_vertices):
                 id, x, y = f.readline().rstrip().split(' ')
