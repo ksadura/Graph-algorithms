@@ -5,6 +5,7 @@ This application has been developed to pass AISDE (algorithms and data structers
 Besides visualization of shortest path and MST we had to find the best location for the node from whom it would be possible
 to start laying fibers, which would reach all others nodes. Due to this, we accomplished the smallest cost of infrastructure.
   
+To run app use a command: ```python main.py``` in terminal.
 
 ![](./Resources/Path.png)  |  ![](./Resources/MST.png)
 :-------------------------:|:-------------------------:
@@ -14,13 +15,13 @@ to start laying fibers, which would reach all others nodes. Due to this, we acco
 :-------------------------:|:-------------------------:
 *Topology* | *Best place for the source node*
 
-**References**
+**References:**
 
 * [Module for printing graphs in Python](https://networkx.org/)
 * [Dijkstra's algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 * [Kruskal's algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 
-**Authors**
+**Authors:**
 
 * Karol Harasim, Krzysztof Sadura
 
