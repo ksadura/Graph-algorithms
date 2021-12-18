@@ -1,9 +1,9 @@
 # Graph-algorithms
 Dijkstra and Kruskal algorithms for finding the shortest path and MST tree in a graph.
 
-This application has been developed to pass AISDE (algorithms and data structers) course at Warsaw Univeristy of Technology.
+This application has been developed to pass AISDE (algorithms and data structures) course at Warsaw Univeristy of Technology.
 Besides visualization of shortest path and MST we had to find the best location for the node from whom it would be possible
-to start laying fibers, which would reach all others nodes. Due to this, we accomplished the smallest cost of infrastructure.
+to start laying fibers, which would reach all others nodes. Due to this, we accomplished the smallest cost of infrastructure (network optimization).
   
 To run app use a command: ```python main.py``` in terminal.
 
